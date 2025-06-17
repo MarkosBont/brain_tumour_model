@@ -17,7 +17,7 @@ This project implements and evaluates different deep learning methods for classi
 | Hyperparameter-Tuned CNN | 73.4%    | 0.78             | 0.45             | 0.84             |
 | **VGG16 Transfer Learning** | **82.4%** | **0.90**         | **0.82**         | **0.86**         |
 
-## 🛠Methodology
+## Methodology
 
 ### Dataset
 
